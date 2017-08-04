@@ -1,12 +1,9 @@
 {
   "name": "google-nodejs",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Serverless example application demonstrating how to feed dynamic content into HTML emails",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "serverless.com",
+  "author": "Varga Balazs",
   "license": "MIT",
   "dependencies": {
     "fontmin": "^0.9.6",
